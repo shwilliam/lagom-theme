@@ -1,6 +1,6 @@
 {
-  "name": "rest",
-  "displayName": "rest",
+  "name": "vscode-lagom",
+  "displayName": "lagom",
   "description": "another theme",
   "version": "0.0.1",
   "engines": {
@@ -10,9 +10,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "rest",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rest-color-theme.json"
+        "label": "lagom",
+        "uiTheme": "vs",
+        "path": "./themes/lagom-light.json"
       }
     ]
   }
