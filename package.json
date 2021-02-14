@@ -2,6 +2,11 @@
   "name": "vscode-lagom",
   "displayName": "lagom",
   "description": "another theme",
+  "publisher": "shwilliam",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwilliam/vscode-lagom.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.49.0"
